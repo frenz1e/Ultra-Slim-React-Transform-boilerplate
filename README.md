@@ -3,9 +3,13 @@
 Boilerplate for fast coding with live editing of modules and styles
 
 - modules hot replacement
+
 - react
+
 - es2015
+
 - sass
+
 
 * Only for development
 
